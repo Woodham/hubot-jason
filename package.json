@@ -1,0 +1,15 @@
+{
+  "name": "hubot-jason",
+  "version": "1.0.0",
+  "description": "Jason's intelligence",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Woodham/hubot-jason.git"
+  },
+  "author": "Chris Woodham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Woodham/hubot-jason/issues"
+  },
+  "homepage": "https://github.com/Woodham/hubot-jason/"
+}

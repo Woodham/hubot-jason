@@ -1,0 +1,10 @@
+name: hubot-jason
+display: Jason's intelligence
+description: Who is jason
+author: Chris Woodham
+repo: https://github.com/Woodham/hubot-jason
+paths:
+    - scripts/jason.coffee
+commands:
+    - hubot hear <something> say <something else> - if hubot hears <something>, he has a chance of saying <something else> (note that regex capture groups can be replaced with e.g. [1], [2] etc and the person who triggerd the response can be replaced with [who])
+    - hubot say for <something> - list the responses that can be generated from a given string
